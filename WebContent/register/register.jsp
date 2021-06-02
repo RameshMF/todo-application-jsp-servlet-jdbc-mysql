@@ -12,7 +12,6 @@
 	crossorigin="anonymous">
 </head>
 
-</head>
 <body>
 	<jsp:include page="../common/header.jsp"></jsp:include>
 	<div class="container">
